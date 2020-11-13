@@ -1,6 +1,0 @@
-theme: jekyll-theme-midnight
-baseurl: ""
-url: "https://jkriszta.github.io"
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag

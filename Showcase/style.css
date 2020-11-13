@@ -1,0 +1,15 @@
+.divClass {
+	background-color: rgb(0,0,0);
+	box-sizing: border-box;
+	width: 200px;
+	height: 200px;
+	color: rgb(255,255,255);
+	padding: 20px 10px 0;
+}
+.spanClass {
+	background-color: rgb(0,0,0);
+	width: 200px;
+	height: 200px;
+	color: rgb(255,255,255);
+	display: ;
+}
